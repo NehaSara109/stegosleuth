@@ -3,7 +3,7 @@
 A simple Python-based tool to *hide and extract secret messages* inside images using *LSB (Least Significant Bit)* steganography.
 
 ## 👩‍💻 Made By
-Neha Philip 💜
+Neha Philip 
 
 ## 🚀 Features
 - Hide any secret text inside an image
